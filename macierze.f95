@@ -1,6 +1,6 @@
 program macierze
 
-  !Kacper Jajuga, grupa: D2, numer indeksu: 150678, kierunek: informatyka (PUW), rok I, semestr II
+  !Kacper Jajuga, kierunek: informatyka, rok I, semestr II
 
   !Przykladowa macierz zostala przeze mnie podana w pliku Nazwa_we.txt i jest ona rozmiaru 3x3
   !Program czyta osiem znakow z pliku i przypisuje je do konkretnego miejsca tab(i,j), dlatego pojedyncza liczba (razem ze spacjami i kropka) musza zajmowac dokladnie tyle miejsca w notatniku
